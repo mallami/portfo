@@ -27,7 +27,7 @@ entrypoints==0.3
 env==0.1.0
 filelock==3.0.12
 flake8==3.8.3
-Flask==0.12.4
+Flask==1.0
 helpdev==0.7.1
 idna==2.9
 imagesize==1.2.0
